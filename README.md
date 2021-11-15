@@ -54,3 +54,4 @@ Zgodnie z raportem pokrycia testowego wygenerowanym przez narzędzie JUnit, pokr
         setIncomeTo - ustawia ostateczny zakres dochodu
         getItems - pobieranie zawartości listy
 
+Kod został wzięty z: Tokiya
