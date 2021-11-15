@@ -5,3 +5,14 @@ Zgodnie z raportem pokrycia testowego wygenerowanym przez narzędzie JUnit, pokr
 ![alt text](https://github.com/s20488/BSI_realizacja_SWE4_BP-3_BP-4_BP-7/blob/main/test_coverage.png?raw=true)
 
 #### test_should_check_if_data_is_properly_filtered()
+Test sprawdza, czy dane są poprawnie filtrowane według przedziałów wieku, dochodu i płci oraz porównuje wyniki z bieżącą stroną i jej wielkością
+
+#### test_should_check_if_paging_works()
+
+#### test_should_check_if_search_by_name_works()
+
+#### test_should_check_if_search_by_age_works()
+
+#### test_should_check_if_search_by_gender_works()
+
+#### test_should_check_if_search_by_income_works()
