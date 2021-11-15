@@ -6,8 +6,18 @@ Zgodnie z raportem pokrycia testowego wygenerowanym przez narzędzie JUnit, pokr
 
 #### test_should_check_if_data_is_properly_filtered()
         Test sprawdza, czy dane są poprawnie filtrowane według przedziałów wieku, dochodu i płci oraz porównuje wyniki z bieżącą             stroną i jej wielkością
-
+        **setAgeFrom** - ustawia początkowy zakres wieku
+        **setAgeTo** - ustawia ostateczny zakres wieku
+        **setIncomeFrom** - ustawia początkowy zakres dochodu 
+        **setPage** - ustawia numer i rozmiar strony
+        **getSelectedGenders** - ustawianie płci
+        **getCurrentPage** - ustawia aktualną stronę
+        **getPages** - uzyskuje numer i rozmiar strony
+        **getItems** - pobieranie zawartości listy
+        **assertThat** - konstrukt sprawdzający założenia dotyczące wartości dowolnych danych
+        
 #### test_should_check_if_paging_works()
+
 
 #### test_should_check_if_search_by_name_works()
 
