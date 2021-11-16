@@ -59,5 +59,21 @@ Zgodnie z raportem pokrycia testowego wygenerowanym przez narzędzie JUnit, pokr
         setIncomeTo - ustawia ostateczny zakres dochodu
         getItems - pobieranie zawartości listy
         ***
+        
+## Analiza statyczna
+Została wykonana przy pomocy "Codacy".ta usługa tworzy/sprawdza analize statyczną,bezpieczeństwo kodu, złożoność cyklomatyczna, duplikacje i pokrycie testów jednostkowych kodu.
+
+Wszystkie błędy w kodzie były typu "Code style issues" na poziomie "Minor" z czego część można było zignorować ponieważ były celowe.
+#### wypisane problemy z kodem
+![alt text](https://github.com/s20488/BSI_realizacja_SWE4_BP-3_BP-4_BP-7/blob/main/screens/issues.PNG?raw=true)
+#### rozwiązania problemów z kodem wdg.codacy:
+![alt text](https://github.com/s20488/BSI_realizacja_SWE4_BP-3_BP-4_BP-7/blob/main/screens/prob1.PNG?raw=true)
+![alt text](https://github.com/s20488/BSI_realizacja_SWE4_BP-3_BP-4_BP-7/blob/main/screens/prob2.PNG?raw=true)
+#### Codacy pokazał także nasze błędy:
+![alt text](https://github.com/s20488/BSI_realizacja_SWE4_BP-3_BP-4_BP-7/blob/main/screens/prob3.PNG?raw=true)
+#### złożoność i dublikacja na poziomie 0%
+![alt text](https://github.com/s20488/BSI_realizacja_SWE4_BP-3_BP-4_BP-7/blob/main/screens/code_qualitty.PNG?raw=true)
+#### wybrane parametry bezpieczeństwa także zachowane
+![alt text](https://github.com/s20488/BSI_realizacja_SWE4_BP-3_BP-4_BP-7/blob/main/screens/security.PNG?raw=true)
 
 **Kod został wzięty od**: Tokiya
